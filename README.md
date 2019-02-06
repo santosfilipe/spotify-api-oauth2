@@ -1,4 +1,4 @@
-# spotify-api-oauth20
+# spotify-api-oauth2
 
 An example of how to use OAuth 2.0 authentication on Spotify API (using Python 3 and Flask).
 
